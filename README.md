@@ -4,6 +4,7 @@ Node js project to find given text in large files in async manner
 # Get started
 
 npm install
+
 node app
 
 # Request
